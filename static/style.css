@@ -1,0 +1,40 @@
+body {
+    background-image: url("../images/bg.webp");
+    background-color: #dea667;
+}
+
+html * {
+    line-height: 1.625;
+    color: #202013;
+    font-family: sans-serif;
+}
+
+#banner {
+    text-align: center;
+    font-size: 36pt;
+}
+#recipe-list {
+    font-size: 18pt;
+    max-width: 600px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+#food-image {
+    max-width: 360px;
+    margin-left: 5%;
+}
+
+#food-title {
+    font-size: 24pt;
+    margin-left: 5%;
+}
+
+#recipe {
+    margin-left: 5%;
+}
+
+#back {
+    font-size: 36pt;
+    margin-left: 15%;
+}
